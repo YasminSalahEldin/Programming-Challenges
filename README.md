@@ -10,7 +10,7 @@ All solutions will be written in dart as that's what I'm meant to be learning.
 - [x] Challenge 1: [Display a joke](https://github.com/YasminSalahEldin/Programming-Challenges/blob/master/lib/challenge_001.dart)
 - [x] Challenge 2: [Ask your name](https://github.com/YasminSalahEldin/Programming-Challenges/blob/master/lib/challenge_002.dart)
 - [x] Challenge 3: [Area of a rectangle](https://github.com/YasminSalahEldin/Programming-Challenges/blob/master/lib/challenge_003.dart)
-- [x] Challenge 4: [Speed calculator](https://github.com/YasminSalahEldin/Programming-Challenges/blob/master/lib/challenge_004.dart)
+- [x] Challenge 4: [Distance calculator](https://github.com/YasminSalahEldin/Programming-Challenges/blob/master/lib/challenge_004.dart)
 - [ ] Challenge 5: Days lived for
 - [ ] Challenge 6: When have 10 seconds elapsed?
 - [ ] Challenge 7: Typing the alphabet
