@@ -2,7 +2,8 @@
 //import 'package:programmingChallenges/challenge_002.dart';
 //import 'package:programmingChallenges/challenge_003.dart';
 //import 'package:programmingChallenges/challenge_004.dart';
+import 'package:programmingChallenges/challenge_005.dart';
 void main() {
-//runProgram();
+runProgram();
 //try to do it
 }
