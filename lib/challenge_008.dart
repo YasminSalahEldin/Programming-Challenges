@@ -16,8 +16,10 @@ class VotingDecider{
     double dif =today.difference(dateOfBirth).inDays/365;
     print(dif);
     int absDif = dif.toInt();
-    print(absDif);
-    //if(today.difference(dateOfBirth));
+    if(absDif >=18){
+      return true;
+    }
+    return false;
   }
 
 }
